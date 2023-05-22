@@ -8,7 +8,7 @@
   
   [![codewars](https://www.codewars.com/users/zioppka/badges/large)](https://www.codewars.com/users/zioppka/)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioppka&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
  
 </div>
