@@ -19,9 +19,9 @@
 
 ### • I'm a 17-year-old software developer with a passion for building web applications.
 
-Telegram: @io_e33
+Telegram: @io_e33💬
 
-Email: marat.morozov.2018@mail.ru
+Email: marat.morozov.2018@mail.ru📧
 
 # My skills:
 `
