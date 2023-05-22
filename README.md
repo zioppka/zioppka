@@ -29,9 +29,10 @@ Email: marat.morozov.2018@mail.ru📧
 • TypeScript
 • React
 • Redux
+• RTK
 • HTML
 • CSS
-• HTML5
+• HTML
 • SCSS
 • SASS
 • MobX
@@ -39,4 +40,5 @@ Email: marat.morozov.2018@mail.ru📧
 • Figma
 • Material UI
 • Styled Components
+• Node.js
 `
